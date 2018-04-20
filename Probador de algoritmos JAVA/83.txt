@@ -1,0 +1,369 @@
+java simulador 1 1 10 20 10 10 0 5 50 5 5 4 1 83 1
+Creado el socket del servidor en el puerto 83
+SALE COCHE DESDE CARRIL: SUR
+HACIA CARRIL: SUR
+PUERTO DESTINO: 81
+PROBABILIDAD: 0.6
+Mas conexiones?: s
+
+SALE COCHE DESDE CARRIL: SUR
+HACIA CARRIL: ESTE
+PUERTO DESTINO: 84
+PROBABILIDAD: 0.3
+Mas conexiones?: s
+
+SALE COCHE DESDE CARRIL: SUR
+HACIA CARRIL: OESTE
+PUERTO DESTINO: 82
+PROBABILIDAD: 0.1
+Mas conexiones?: n
+__1__1__10__20__10__10__0__5__50__5__5__4__
+Probabilidades0.05 0.5 0.05 0.05
+ ENTRA SUR
+ ENTRA SUR
+*************************************************************
+las colas son: 10 22 10 10
+Sale coche de [ NORTE ] (N-2)
+Sale coche de [ NORTE ] (N-3)
+Sale coche de [ NORTE ] (N-4)
+Sale coche de [ NORTE ] (N-5)
+Sale coche de [ NORTE ] (N-7)
+Sale coche de [ NORTE ] (N-6)
+Sale coche de [ NORTE ] (N-9)
+Sale coche de [ NORTE ] (N-8)
+Sale coche de [ NORTE ] (N-10)
+Sale coche de [ NORTE ] (N-1)
+ ENTRA SUR
+ ENTRA SUR
+ ENTRA SUR
+*************************************************************
+las colas son: 0 25 10 10
+Sale coche de [ SUR ] (S-2)
+Sale coche de [ SUR ] (S-1)
+        ***********Paquete destino puerto 81 y mensaje SUR
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-3)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-4)
+Sale coche de [ SUR ] (S-5)
+        ***********Paquete destino puerto 81 y mensaje SUR
+        ***********Paquete destino puerto 84 y mensaje ESTE
+Sale coche de [ SUR ] (S-6)
+Sale coche de [ SUR ] (S-7)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-8)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-9)
+        ***********Paquete destino puerto 81 y mensaje SUR
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-10)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-12)
+        ***********Paquete destino puerto 82 y mensaje OESTE
+Sale coche de [ SUR ] (S-11)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-13)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-14)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-15)
+        ***********Paquete destino puerto 82 y mensaje OESTE
+Sale coche de [ SUR ] (S-16)
+        ***********Paquete destino puerto 84 y mensaje ESTE
+Sale coche de [ SUR ] (S-17)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-18)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-19)
+        ***********Paquete destino puerto 84 y mensaje ESTE
+Sale coche de [ SUR ] (S-20)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-21)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-22)
+        ***********Paquete destino puerto 84 y mensaje ESTE
+Sale coche de [ SUR ] (S-23)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-24)
+Sale coche de [ SUR ] (S-25)
+        ***********Paquete destino puerto 81 y mensaje SUR
+        ***********Paquete destino puerto 81 y mensaje SUR
+ ENTRA SUR
+ ENTRA SUR
+*************************************************************
+las colas son: 0 2 10 10
+Sale coche de [ ESTE ] (E-1)
+Sale coche de [ ESTE ] (E-2)
+Sale coche de [ ESTE ] (E-4)
+ ENTRA SUR
+Sale coche de [ ESTE ] (E-5)
+Sale coche de [ ESTE ] (E-7)
+Sale coche de [ ESTE ] (E-6)
+Sale coche de [ ESTE ] (E-8)
+Sale coche de [ ESTE ] (E-9)
+Sale coche de [ ESTE ] (E-10)
+Sale coche de [ ESTE ] (E-3)
+ ENTRA SUR
+ ENTRA SUR
+ ENTRA ESTE
+Sale coche de [ ESTE ] (E-11)
+ ENTRA SUR
+*************************************************************
+las colas son: 0 6 0 10
+Sale coche de [ OESTE ] (O-1)
+Sale coche de [ OESTE ] (O-2)
+Sale coche de [ OESTE ] (O-3)
+Sale coche de [ OESTE ] (O-4)
+Sale coche de [ OESTE ] (O-8)
+Sale coche de [ OESTE ] (O-7)
+ ENTRA SUR
+Sale coche de [ OESTE ] (O-9)
+Sale coche de [ OESTE ] (O-5)
+Sale coche de [ OESTE ] (O-10)
+Sale coche de [ OESTE ] (O-6)
+ ENTRA SUR
+ ENTRA SUR
+ ENTRA SUR
+*************************************************************
+las colas son: 0 10 0 0
+ ENTRA SUR
+ ENTRA SUR
+ ENTRA SUR
+ ENTRA SUR
+*************************************************************
+las colas son: 0 14 0 0
+Sale coche de [ SUR ] (S-26)
+Sale coche de [ SUR ] (S-27)
+        ***********Paquete destino puerto 84 y mensaje ESTE
+Sale coche de [ SUR ] (S-28)
+        ***********Paquete destino puerto 81 y mensaje SUR
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-29)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-30)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-31)
+Sale coche de [ SUR ] (S-32)
+        ***********Paquete destino puerto 82 y mensaje OESTE
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-33)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-34)
+ ENTRA SUR
+        ***********Paquete destino puerto 84 y mensaje ESTE
+Sale coche de [ SUR ] (S-35)
+ ENTRA NORTE
+ ENTRA SUR
+Sale coche de [ SUR ] (S-36)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-37)
+        ***********Paquete destino puerto 81 y mensaje SUR
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-38)
+        ***********Paquete destino puerto 84 y mensaje ESTE
+Sale coche de [ SUR ] (S-39)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-40)
+Sale coche de [ SUR ] (S-41)
+        ***********Paquete destino puerto 82 y mensaje OESTE
+        ***********Paquete destino puerto 84 y mensaje ESTE
+ ENTRA SUR
+Sale coche de [ SUR ] (S-42)
+ ENTRA SUR
+        ***********Paquete destino puerto 84 y mensaje ESTE
+Sale coche de [ SUR ] (S-43)
+        ***********Paquete destino puerto 84 y mensaje ESTE
+ ENTRA SUR
+*************************************************************
+las colas son: 1 1 0 0
+ ENTRA SUR
+ ENTRA ESTE
+Sale coche de [ ESTE ] (E-12)
+ ENTRA SUR
+ ENTRA SUR
+*************************************************************
+las colas son: 1 4 0 0
+ ENTRA ESTE
+ ENTRA SUR
+*************************************************************
+las colas son: 1 5 1 0
+Sale coche de [ NORTE ] (N-11)
+ ENTRA SUR
+ ENTRA SUR
+ ENTRA SUR
+ ENTRA ESTE
+ ENTRA SUR
+ ENTRA SUR
+ ENTRA OESTE
+ ENTRA NORTE
+ ENTRA ESTE
+*************************************************************
+las colas son: 1 10 3 1
+Sale coche de [ SUR ] (S-44)
+Sale coche de [ SUR ] (S-45)
+        ***********Paquete destino puerto 84 y mensaje ESTE
+        ***********Paquete destino puerto 84 y mensaje ESTE
+Sale coche de [ SUR ] (S-46)
+        ***********Paquete destino puerto 84 y mensaje ESTE
+Sale coche de [ SUR ] (S-47)
+        ***********Paquete destino puerto 82 y mensaje OESTE
+Sale coche de [ SUR ] (S-48)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-49)
+        ***********Paquete destino puerto 82 y mensaje OESTE
+Sale coche de [ SUR ] (S-50)
+        ***********Paquete destino puerto 84 y mensaje ESTE
+Sale coche de [ SUR ] (S-51)
+        ***********Paquete destino puerto 84 y mensaje ESTE
+Sale coche de [ SUR ] (S-52)
+ ENTRA SUR
+ ENTRA SUR
+Sale coche de [ SUR ] (S-53)
+        ***********Paquete destino puerto 84 y mensaje ESTE
+Sale coche de [ SUR ] (S-54)
+        ***********Paquete destino puerto 84 y mensaje ESTE
+Sale coche de [ SUR ] (S-55)
+        ***********Paquete destino puerto 81 y mensaje SUR
+        ***********Paquete destino puerto 82 y mensaje OESTE
+ ENTRA SUR
+ ENTRA OESTE
+Sale coche de [ SUR ] (S-56)
+        ***********Paquete destino puerto 81 y mensaje SUR
+ ENTRA SUR
+ ENTRA ESTE
+Sale coche de [ SUR ] (S-57)
+        ***********Paquete destino puerto 84 y mensaje ESTE
+ ENTRA SUR
+Sale coche de [ SUR ] (S-58)
+        ***********Paquete destino puerto 81 y mensaje SUR
+ ENTRA NORTE
+ ENTRA SUR
+Sale coche de [ SUR ] (S-59)
+        ***********Paquete destino puerto 81 y mensaje SUR
+ ENTRA SUR
+ ENTRA OESTE
+*************************************************************
+las colas son: 2 1 4 3
+Sale coche de [ ESTE ] (E-13)
+Sale coche de [ ESTE ] (E-14)
+Sale coche de [ ESTE ] (E-15)
+Sale coche de [ ESTE ] (E-16)
+ ENTRA SUR
+ ENTRA OESTE
+ ENTRA NORTE
+ ENTRA SUR
+ ENTRA OESTE
+ ENTRA SUR
+ ENTRA SUR
+*************************************************************
+las colas son: 3 5 0 5
+Sale coche de [ OESTE ] (O-11)
+Sale coche de [ OESTE ] (O-12)
+Sale coche de [ OESTE ] (O-13)
+Sale coche de [ OESTE ] (O-14)
+Sale coche de [ OESTE ] (O-15)
+ ENTRA SUR
+ ENTRA OESTE
+Sale coche de [ OESTE ] (O-16)
+ ENTRA OESTE
+Sale coche de [ OESTE ] (O-17)
+ ENTRA SUR
+ ENTRA OESTE
+Sale coche de [ OESTE ] (O-18)
+*************************************************************
+las colas son: 3 7 0 0
+Sale coche de [ NORTE ] (N-12)
+Sale coche de [ NORTE ] (N-13)
+Sale coche de [ NORTE ] (N-14)
+ ENTRA SUR
+ ENTRA SUR
+ ENTRA SUR
+*************************************************************
+las colas son: 0 10 0 0
+Sale coche de [ SUR ] (S-60)
+Sale coche de [ SUR ] (S-61)
+        ***********Paquete destino puerto 81 y mensaje SUR
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-62)
+ ENTRA NORTE
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-63)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-64)
+Sale coche de [ SUR ] (S-65)
+        ***********Paquete destino puerto 81 y mensaje SUR
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-66)
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-67)
+Sale coche de [ SUR ] (S-68)
+        ***********Paquete destino puerto 84 y mensaje ESTE
+        ***********Paquete destino puerto 84 y mensaje ESTE
+Sale coche de [ SUR ] (S-69)
+        ***********Paquete destino puerto 81 y mensaje SUR
+ ENTRA SUR
+Sale coche de [ SUR ] (S-70)
+ ENTRA SUR
+Sale coche de [ SUR ] (S-71)
+        ***********Paquete destino puerto 81 y mensaje SUR
+ ENTRA SUR
+        ***********Paquete destino puerto 81 y mensaje SUR
+Sale coche de [ SUR ] (S-72)
+        ***********Paquete destino puerto 81 y mensaje SUR
+ ENTRA SUR
+
+        ********YA NO INTRODUCIMOS MAS COCHES
+Sale coche de [ SUR ] (S-73)
+        ***********Paquete destino puerto 81 y mensaje SUR
+*************************************************************
+las colas son: 1 0 0 0
+*************************************************************
+las colas son: 1 0 0 0
+*************************************************************
+las colas son: 1 0 0 0
+Sale coche de [ NORTE ] (N-15)
+*************************************************************
+las colas son: 0 0 0 0
+*************************************************************
+las colas son: 0 0 0 0
+*************************************************************
+las colas son: 0 0 0 0
+java.lang.ArithmeticException: / by zero
+        at Cruce.principal(simulador.java:277)
+        at simulador.main(simulador.java:19)
+java.lang.ArithmeticException: / by zero
+        at Cruce.principal(simulador.java:295)
+        at simulador.main(simulador.java:19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

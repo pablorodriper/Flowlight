@@ -1,0 +1,223 @@
+java simulador 1 1 10 10 10 10 0 5 5 5 5 4 1 81 0
+Creado el socket del servidor en el puerto 81
+SALE COCHE DESDE CARRIL:
+HACIA CARRIL:
+PUERTO DESTINO:
+PROBABILIDAD:
+Mas conexiones?: n
+
+DESPERTAR CRUCES CON PUERTOS:
+82 83 84
+        ***********Paquete destino puerto 82 y mensaje START
+        ***********Paquete destino puerto 83 y mensaje START
+        ***********Paquete destino puerto 84 y mensaje START
+__1__1__10__10__10__10__0__5__5__5__5__4__
+Probabilidades0.05 0.05 0.05 0.05
+*************************************************************
+las colas son: 10 10 10 10
+Sale coche de [ NORTE ] (N-1)
+Sale coche de [ NORTE ] (N-5)
+Sale coche de [ NORTE ] (N-4)
+Sale coche de [ NORTE ] (N-3)
+Sale coche de [ NORTE ] (N-6)
+Sale coche de [ NORTE ] (N-7)
+Sale coche de [ NORTE ] (N-8)
+Sale coche de [ NORTE ] (N-2)
+Sale coche de [ NORTE ] (N-10)
+Sale coche de [ NORTE ] (N-9)
+ ENTRA ESTE
+*************************************************************
+las colas son: 0 10 11 10
+Sale coche de [ SUR ] (S-3)
+Sale coche de [ SUR ] (S-2)
+        **Nuevo coche en carrilSUR
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-1)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-5)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-4)
+Sale coche de [ SUR ] (S-7)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-9)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-10)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-8)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-6)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-11)
+Sale coche de [ SUR ] (S-12)
+Sale coche de [ SUR ] (S-13)
+        **Nuevo coche en carrilSUR
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-14)
+Sale coche de [ SUR ] (S-15)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-16)
+Sale coche de [ SUR ] (S-17)
+Sale coche de [ SUR ] (S-18)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-19)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-20)
+Sale coche de [ SUR ] (S-21)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-22)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-23)
+Sale coche de [ SUR ] (S-24)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-25)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-26)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-27)
+Sale coche de [ SUR ] (S-28)
+Sale coche de [ SUR ] (S-29)
+*************************************************************
+las colas son: 0 0 11 10
+Sale coche de [ ESTE ] (E-1)
+Sale coche de [ ESTE ] (E-3)
+Sale coche de [ ESTE ] (E-4)
+Sale coche de [ ESTE ] (E-2)
+Sale coche de [ ESTE ] (E-6)
+Sale coche de [ ESTE ] (E-5)
+Sale coche de [ ESTE ] (E-7)
+Sale coche de [ ESTE ] (E-9)
+Sale coche de [ ESTE ] (E-8)
+Sale coche de [ ESTE ] (E-10)
+Sale coche de [ ESTE ] (E-11)
+*************************************************************
+las colas son: 0 0 0 10
+Sale coche de [ OESTE ] (O-2)
+Sale coche de [ OESTE ] (O-3)
+Sale coche de [ OESTE ] (O-5)
+Sale coche de [ OESTE ] (O-1)
+Sale coche de [ OESTE ] (O-4)
+Sale coche de [ OESTE ] (O-8)
+Sale coche de [ OESTE ] (O-7)
+Sale coche de [ OESTE ] (O-9)
+ ENTRA ESTE
+Sale coche de [ OESTE ] (O-6)
+Sale coche de [ OESTE ] (O-10)
+*************************************************************
+las colas son: 0 0 1 0
+ ENTRA ESTE
+ ENTRA SUR
+ ENTRA OESTE
+*************************************************************
+las colas son: 0 1 2 1
+Sale coche de [ SUR ] (S-30)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-31)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-32)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-33)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-34)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-35)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-36)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-37)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-38)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-39)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-40)
+ ENTRA ESTE
+ ENTRA NORTE
+*************************************************************
+las colas son: 1 0 3 1
+Sale coche de [ ESTE ] (E-12)
+Sale coche de [ ESTE ] (E-13)
+Sale coche de [ ESTE ] (E-14)
+ ENTRA ESTE
+Sale coche de [ ESTE ] (E-15)
+*************************************************************
+las colas son: 1 0 0 1
+Sale coche de [ OESTE ] (O-11)
+ ENTRA OESTE
+Sale coche de [ OESTE ] (O-12)
+*************************************************************
+las colas son: 1 0 0 0
+Sale coche de [ NORTE ] (N-11)
+*************************************************************
+las colas son: 0 0 0 0
+ ENTRA NORTE
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-41)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-42)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-43)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-44)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-45)
+*************************************************************
+las colas son: 1 0 0 0
+*************************************************************
+las colas son: 1 0 0 0
+ ENTRA NORTE
+*************************************************************
+las colas son: 2 0 0 0
+Sale coche de [ NORTE ] (N-12)
+Sale coche de [ NORTE ] (N-13)
+ ENTRA SUR
+ ENTRA SUR
+ ENTRA NORTE
+*************************************************************
+las colas son: 1 2 0 0
+Sale coche de [ SUR ] (S-46)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-47)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-48)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-49)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-50)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-51)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-52)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-53)
+Sale coche de [ SUR ] (S-54)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-55)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-56)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-57)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-58)
+        **Nuevo coche en carrilSUR
+Sale coche de [ SUR ] (S-59)
+*************************************************************
+las colas son: 1 0 0 0
+
+        ********YA NO INTRODUCIMOS MAS COCHES
+*************************************************************
+las colas son: 1 0 0 0
+*************************************************************
+las colas son: 1 0 0 0
+Sale coche de [ NORTE ] (N-14)
+*************************************************************
+las colas son: 0 0 0 0
+*************************************************************
+las colas son: 0 0 0 0
+*************************************************************
+las colas son: 0 0 0 0
+java.lang.ArithmeticException: / by zero
+        at Cruce.principal(simulador.java:277)
+        at simulador.main(simulador.java:19)
+java.lang.ArithmeticException: / by zero
+        at Cruce.principal(simulador.java:295)
+        at simulador.main(simulador.java:19)
