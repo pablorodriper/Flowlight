@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowLight simulator", "FlowLight simulator.csproj", "{A49708A9-CE19-D248-4CFE-89B72F5C61F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowLight simulator.Editor", "FlowLight simulator.Editor.csproj", "{7A5DAAFC-230F-BC70-AF55-C9250CFAFBEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A49708A9-CE19-D248-4CFE-89B72F5C61F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49708A9-CE19-D248-4CFE-89B72F5C61F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49708A9-CE19-D248-4CFE-89B72F5C61F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49708A9-CE19-D248-4CFE-89B72F5C61F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A5DAAFC-230F-BC70-AF55-C9250CFAFBEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5DAAFC-230F-BC70-AF55-C9250CFAFBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5DAAFC-230F-BC70-AF55-C9250CFAFBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5DAAFC-230F-BC70-AF55-C9250CFAFBEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

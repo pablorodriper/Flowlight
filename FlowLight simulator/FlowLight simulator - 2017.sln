@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowLight simulator - 2017", "FlowLight simulator - 2017.csproj", "{53138EDB-F593-5C24-2E9E-54FC3C764AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53138EDB-F593-5C24-2E9E-54FC3C764AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53138EDB-F593-5C24-2E9E-54FC3C764AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53138EDB-F593-5C24-2E9E-54FC3C764AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53138EDB-F593-5C24-2E9E-54FC3C764AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

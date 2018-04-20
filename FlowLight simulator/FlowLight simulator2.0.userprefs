@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{9D0F9218-6C1C-05C6-6C59-EA7A8EA20B61}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Cruce.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Interseccion.cs" Line="21" Column="14" />
+      <File FileName="Assets/Scripts/Movimiento.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Cruce.cs" Line="46" Column="11" />
+      <File FileName="Assets/Scripts/InicioFin.cs" Line="30" Column="44" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CambiarColor.cs" Line="40" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FlowLight_220simulator2.0 PreferredExecutionTarget="Unity.Editor" />
+</Properties>
